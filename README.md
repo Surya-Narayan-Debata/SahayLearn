@@ -24,7 +24,7 @@ Follow these steps to set up and run Sahay on your computer.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/Satyajit2301/SahayLearn.git
+git clone https://github.com/Surya-Narayan-Debata/SahayLearn.git
 cd SahayLearn
 ```
 
